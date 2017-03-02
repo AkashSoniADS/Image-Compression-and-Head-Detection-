@@ -1,0 +1,1 @@
+# Image-Compression-and-Head-Detection-  In this project, the image was compressed using Singular Value Decomposition and the Head Counting was done in Matlab using Morphology (Dilation and Erosion) and finally, circle fitting.
